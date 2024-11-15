@@ -1,0 +1,19 @@
+{
+  "name": "eui-icon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ensemble-UI/eui-icon.git"
+  },
+  "author": "Amirhosein Mardani",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Ensemble-UI/eui-icon/issues"
+  },
+  "homepage": "https://github.com/Ensemble-UI/eui-icon#readme"
+}
